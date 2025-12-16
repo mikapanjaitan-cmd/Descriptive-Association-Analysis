@@ -1,9 +1,10 @@
 streamlit
 pandas 
 numpy 
-matplotlib.pyplot 
+matplotlib 
 seaborn
 scipy 
 openpyxl
 Pillow
 reportlab
+
